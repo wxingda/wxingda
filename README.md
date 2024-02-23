@@ -9,8 +9,8 @@
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wxingda&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
   <img alt="Language Usage" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wxingda&count_private=true&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10"> &nbsp
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxingda)](https://github.com/wxingda/github-readme-stats)
 </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxingda)](https://github.com/wxingda/github-readme-stats)
 <a href="https://github.com/wxingda#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://github.com/wxingda/wxingda/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
