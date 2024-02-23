@@ -7,7 +7,7 @@
   </a> &nbsp
 </p>
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wxingda&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
+  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wxingda&count_private=false&theme=chartreuse-dark&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
   <img alt="Language Usage" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wxingda&count_private=false&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10"> &nbsp
 </p>
 <a href="https://github.com/wxingda#gh-light-mode-only" align="center">
